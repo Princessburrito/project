@@ -1,1 +1,2 @@
 # project
+This repository contains files related to a data science project that builds and evaluates a machine learning model (a logistic regression model). Project files include weekly meeting minutes and other documents, the dataset, image files, python scripts to generate and visualize data and plot predictions, and the final report (with appropriate visualizations) in ipynb and pdf formats. Also included is an environment file in .yaml format.    
